@@ -25,7 +25,7 @@ const Chat = () => {
 
   const [UploadOpen, setUploadOpen] = useState(false);
 
-  const ENDPOINT = 'https://ahyoung21.herokuapp.com/';
+  const ENDPOINT = 'https://masonchat.herokuapp.com/';
 
   const handleUpoladOpen = useCallback(() => {
     setUploadOpen((prev) => !prev);
