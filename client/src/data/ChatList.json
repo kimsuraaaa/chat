@@ -1,0 +1,90 @@
+[
+  {
+    "seq": 1,
+    "userId": "장만월 사장님",
+    "thumbNailPath": "/assets/sample/img_sample04@3x.png",
+    "isRead": "N",
+    "chatNum": "1",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-07-13 22:05:29"
+  },
+  {
+    "seq": 2,
+    "userId": "신정근 바텐더",
+    "thumbNailPath": "/assets/sample/img_sample05@3x.png",
+    "isRead": "Y",
+    "lastChat": "오시는 길에 와인 몇병만 사다주세요.",
+    "lastChatDateTime": "2022-07-11 12:05:29"
+  },
+  {
+    "seq": 3,
+    "userId": "장만월 사장님",
+    "thumbNailPath": "/assets/sample/img_sample06@3x.png",
+    "isRead": "N",
+    "chatNum": "99",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-07-13 22:05:29"
+  },
+  {
+    "seq": 4,
+    "userId": "신정근 바텐더",
+    "thumbNailPath": "/assets/sample/img_sample07@3x.png",
+    "isRead": "Y",
+    "lastChat": "오시는 길에 와인 몇병만 사다주세요.",
+    "lastChatDateTime": "2022-07-01 02:05:00"
+  },
+  {
+    "seq": 5,
+    "userId": "장만월 사장님",
+    "thumbNailPath": "/assets/sample/img_sample08@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  },
+  {
+    "seq": 5,
+    "userId": "장만월 사장님",
+    "thumbNailPath": "/assets/sample/img_sample09@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  },
+  {
+    "seq": 5,
+    "userId": "장만월 사장님",
+    "thumbNailPath": "/assets/sample/img_sample10@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  },
+  {
+    "seq": 5,
+    "userId": "장만월 사장님",
+    "thumbNailPath": "/assets/sample/img_sample11@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  },
+  {
+    "seq": 5,
+    "userId": "장만월 사장님",
+    "thumbNailPath": "/assets/sample/img_sample01@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  },
+  {
+    "seq": 5,
+    "userId": "장만월 사장님",
+    "thumbNailPath": "/assets/sample/img_sample12@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  }
+]
